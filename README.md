@@ -1,5 +1,5 @@
 # BlockchainProjects
-A lot of blockchain projects gathering.
+A few blockchain projects gathering.
 
 
 # References
