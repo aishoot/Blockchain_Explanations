@@ -1,6 +1,9 @@
 # BlockchainProjects
 A few blockchain projects gathering.
+![](/snakechain.jpg)
 
+# Require
+* Python3
 
 # References
 * [Let’s Build the Tiniest Blockchain- In Less Than 50 Lines of Python.](https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b)
