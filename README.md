@@ -6,7 +6,8 @@ A few blockchain projects gathering.<br><br>
 * Python3
 
 # Files
-* 01-SnakeChain: a simple blockchain in less than 50 lines of Python 3 code called SnakeCoin.
+* 01-SnakeChain: a simple blockchain in less than 50 lines of Python 3 code called SnakeCoin.<br>
+![](/01-SnakeChain/result.png)
 * 02-
 
 # References
