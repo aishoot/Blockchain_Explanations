@@ -1,5 +1,5 @@
 # BlockchainProjects
-A lot of blockchain projects.
+A lot of blockchain projects gathering.
 
 
 
