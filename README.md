@@ -1,6 +1,6 @@
 # BlockchainProjects
 A few blockchain projects gathering.
-![](/snakechain.jpg)
+![](/blockchain.jpg)
 
 # Require
 * Python3
