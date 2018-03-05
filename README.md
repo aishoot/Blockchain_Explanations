@@ -8,7 +8,7 @@ A few blockchain projects gathering.<br><br>
 # Files
 * 01-SnakeCoin: a simple blockchain in less than 50 lines of Python 3 code like snake called SnakeCoin.<br>
 ![](/01-SnakeCoin/result.png)
-* 02-![Build Status][build-image]
+* 02-
 
 # References
 * [Let’s Build the Tiniest Blockchain- In Less Than 50 Lines of Python.](https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b)
