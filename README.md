@@ -1,5 +1,6 @@
 # BlockchainProjects
-A few blockchain projects gathering.<br><br>
+A few blockchain projects gathering.<br>
+![Build Status][build-image]
 ![](/blockchain.jpg)
 
 # Requirements
