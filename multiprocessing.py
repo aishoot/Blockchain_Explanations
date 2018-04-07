@@ -1,6 +1,6 @@
-import urllib2
-from multiprocessing import Pool   # 多进程
-from multiprocessing.dummy import Pool as ThreadPool  # 多线程
+# A few lines of python code to implement parallel computing
+from multiprocessing import Pool   # multi-process
+from multiprocessing.dummy import Pool as ThreadPool   # multi-thread
 
 urls = ["https://wew.com", "https://www.baidu.com"]
 
