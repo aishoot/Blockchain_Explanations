@@ -14,5 +14,8 @@ A few blockchain projects gathering.<br><br>
 * [Let’s Make the Tiniest Blockchain Bigger- Part 2: With More Lines of Python](https://medium.com/crypto-currently/lets-make-the-tiniest-blockchain-bigger-ac360a328f4d)
 * [Pysimplechain](https://github.com/EricAlcaide/pysimplechain)
 * [Cool HTML Resources](https://www.html5tricks.com/)
+* [Build Your Own Blockchain](http://ecomunsing.com/build-your-own-blockchain)
+* [A Practical Introduction to Blockchain with Python](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/)
+* [Building a Simple Blockchain in Python](http://www.pyscoop.com/building-a-simple-blockchain-in-python/)
 
 *More codes will be uploaded soon!*
