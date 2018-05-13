@@ -16,5 +16,6 @@ A few blockchain projects gathering.<br><br>
 * [Build Your Own Blockchain](http://ecomunsing.com/build-your-own-blockchain)
 * [A Practical Introduction to Blockchain with Python](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/)
 * [Building a Simple Blockchain in Python](http://www.pyscoop.com/building-a-simple-blockchain-in-python/)
+* [AI DAO](http://www.infoq.com/cn/news/2017/01/AI-DAO-rule-world/)
 
 *More codes will be uploaded soon!*
