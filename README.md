@@ -1,5 +1,5 @@
 # BlockchainProjects
-A few blockchain projects gathering.<br><br>
+A few blockchain projects gathering for beginners.<br><br>
 ![](/blockchain.jpg)
 
 # Requirements
